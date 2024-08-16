@@ -1,5 +1,6 @@
 # lead-score-case-study-upgrad
 Lead Score Case Study: Logistic Regression
+
 **Objective**
 The objective of this case study is to develop a logistic regression model to predict which leads are most likely to convert into customers. This model will enable the sales team to prioritize high-potential leads, especially during periods of intensive conversion efforts.
 
